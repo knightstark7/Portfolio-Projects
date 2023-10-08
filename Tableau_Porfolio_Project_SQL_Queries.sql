@@ -2,6 +2,9 @@
 
 Queries used for Tableau Project
 
+Link Tableau: https://public.tableau.com/shared/3CN589PZ6?:display_count=n&:origin=viz_share_link
+
+
 */
 
 
@@ -171,6 +174,7 @@ From PortfolioProject..CovidDeaths
 --Where location like '%states%'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
+
 
 
 
